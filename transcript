@@ -1,0 +1,11 @@
+# OpenFile ./remainder_testbench.v
+vsim work.remainder_testbench
+# vsim work.remainder_testbench 
+# Start time: 00:32:07 on Apr 27,2026
+# Loading work.remainder_testbench
+# Loading work.remainder
+run -all
+# ** Note: $finish    : ./remainder_testbench.v(40)
+#    Time: 490 ps  Iteration: 0  Instance: /remainder_testbench
+# End time: 00:32:14 on Apr 27,2026, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 0

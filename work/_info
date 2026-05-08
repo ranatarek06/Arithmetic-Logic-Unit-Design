@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/awabt/Desktop/Rem
+vremainder
+!s110 1777238234
+!i10b 1
+!s100 OYzoBZijbDFMYiToe]HX:1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXClmMDcOjjdVRHfe5AkYb0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1777237512
+8.\remainder.v
+F.\remainder.v
+!i122 2
+L0 1 38
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1777238234.000000
+!s107 .\remainder.v|
+!s90 .\remainder.v|
+!i113 1
+Z4 tCvgOpt 0
+vremainder_testbench
+!s110 1777239117
+!i10b 1
+!s100 nf[zXEh8i41@4I5SI;5V<0
+R1
+I^F1ZN>:D9U^6cf4OTA>Eh3
+R2
+R0
+w1777239114
+8.\remainder_testbench.v
+F.\remainder_testbench.v
+!i122 6
+L0 1 43
+R3
+r1
+!s85 0
+31
+!s108 1777239117.000000
+!s107 .\remainder_testbench.v|
+!s90 .\remainder_testbench.v|
+!i113 1
+R4
